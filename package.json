@@ -1,6 +1,6 @@
 {
   "name": "@garbugliawebsite/title-case-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Capitalizes the first letter of every word in a sentence.",
   "main": "app.js",
   "engines": {
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/garbugliawebsite/title-case-converter/issues"
   },
-  "homepage": "https://garbugliawebsite.digital"
+  "homepage": "https://garbugliawebsite.digital",
+  "dependencies": {
+    "-": "0.0.1"
+  }
 }
